@@ -15,6 +15,7 @@ Part#1: How to preprocessing data for NLP
 >Make Sequences all the same length
 
 =====================================================================================
+
 Part#2: Take data from kaggle and then follow the preprocessing process 
 
 >Down load data from Kaggle
