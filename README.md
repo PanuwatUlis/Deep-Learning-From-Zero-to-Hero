@@ -13,3 +13,12 @@ Part#1: How to preprocessing data for NLP
 >Make them as Sequences
 
 >Make Sequences all the same length
+
+=====================================================================================
+Part#2: Take data from kaggle and then follow the preprocessing process 
+
+>Down load data from Kaggle
+
+>use pandas to manipulate data to dataframe and then take data from text column to list in reviews variable
+
+>follow preprocessing process like part#1
