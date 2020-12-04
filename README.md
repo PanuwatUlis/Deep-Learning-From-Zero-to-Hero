@@ -36,3 +36,16 @@ Part#3: Word Embedding and Sentiment
 >before the last layer we can use relu activation function for dense layer as many as you want
 
 >Finallly the last layer only 1 unit to classify binary  classification with sigmoid function
+
+===========================================================================
+
+Part#4 Tweaking the model (Adjust Parameters)
+
+>This part we gonna adjust some parameters, what we can adjust?
+
+  - vocab_size 
+  - embedding_dim 
+  - max_length 
+  - trunc_type
+  - padding_type
+  
