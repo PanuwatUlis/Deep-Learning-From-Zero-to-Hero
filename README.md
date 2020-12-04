@@ -48,4 +48,10 @@ Part#4 Tweaking the model (Adjust Parameters)
   - max_length 
   - trunc_type
   - padding_type
+  - Embed Layer
+  - Dense Layer
+  - Optimizer Model
+  - etc.
+  
+In this case, follow the hand on project in Udacity, we adjust only vocab_size and max_length and see how accuracy we can improve the model
   
