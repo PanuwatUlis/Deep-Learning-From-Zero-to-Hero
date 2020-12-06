@@ -2,6 +2,7 @@
 Learning deep learning by using tensorflow. The purpose of this project is to gain more experience with deep learning and tensorflow. To prepare for Tensorflow Certificate Examination
 
 #Natural Language Processing (NLP)
+
 This one is a part of Intro to TensorFlow for Deep Learning from Udacity
 
 Part#1: How to preprocessing data for NLP
@@ -54,4 +55,11 @@ Part#4 Tweaking the model (Adjust Parameters)
   - etc.
   
 In this case, follow the hand on project in Udacity, we adjust only vocab_size and max_length and see how accuracy we can improve the model
+
 ===============================================================================
+
+Part#5 To compare model performance for all models
+
+  - Only Embedding Layer
+  - Bidirectional LSTM
+  - Multi Layers Bidirectional LSTM
