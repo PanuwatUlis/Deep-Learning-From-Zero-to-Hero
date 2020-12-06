@@ -54,4 +54,4 @@ Part#4 Tweaking the model (Adjust Parameters)
   - etc.
   
 In this case, follow the hand on project in Udacity, we adjust only vocab_size and max_length and see how accuracy we can improve the model
-  
+===============================================================================
